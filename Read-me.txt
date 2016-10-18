@@ -1,2 +1,0 @@
-Responsive CSS grid System for bignners 
-https://jsfiddle.net/mahmoudalfayoumi/uedh5uL1/5/
